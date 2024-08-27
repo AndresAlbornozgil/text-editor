@@ -1,7 +1,7 @@
 # Text Editor
 
 ## Description
-A text editor that runs in the browser.
+This project showcases a feature-rich text editor that runs directly in the browser as a single-page application (SPA). As a Progressive Web App (PWA), this text editor not only provides a seamless and responsive user experience but also functions offline, ensuring reliability in various environments. By implementing multiple data persistence strategies, the app guarantees that user data is securely stored even if one method is unsupported by the browser. The project demonstrates skills in utilizing IndexedDB through the idb package, a lightweight and efficient solution used by industry leaders like Google and Mozilla, to handle robust data storage and retrieval.
 
 ## Table of Contents
 - [Installation](#installation)
