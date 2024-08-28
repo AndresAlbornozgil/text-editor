@@ -15,7 +15,7 @@ This project showcases a feature-rich text editor that runs directly in the brow
 This project does not require an installation. However, you are welcome to to either clone the repository and access the project files or fork the repo.
 
 ## Usage
-Deployed on [.....](.........)
+Deployed on [Render](https://text-editor-veu1.onrender.com)
 
 ## Credits
 Andres Albornoz
